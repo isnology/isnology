@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Rails isnology: development" uuid="f9a0cf5e-7b09-48f7-ab68-c0b38df0e45c">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails isnology: test" uuid="d51b85ee-c5e0-42d4-94b6-1659f07b58fc">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails isnology: production" uuid="98493060-f36d-4488-abaa-077b4e7b13f5">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
