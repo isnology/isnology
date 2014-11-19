@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/isnology.iml" filepath="$PROJECT_DIR$/.idea/isnology.iml" />
+      <module fileurl="file://$USER_HOME$/rails_apps/isnology/.idea/isnology.iml" filepath="$USER_HOME$/rails_apps/isnology/.idea/isnology.iml" />
     </modules>
   </component>
 </project>
-
